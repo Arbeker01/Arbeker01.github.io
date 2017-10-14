@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**#Mom Wants to Know About Variables and Methods**"
-date:       2017-10-14 17:02:27 +0000
+date:       2017-10-14 13:02:28 -0400
 permalink:  mom_wants_to_know_about_variables_and_methods
 ---
 
