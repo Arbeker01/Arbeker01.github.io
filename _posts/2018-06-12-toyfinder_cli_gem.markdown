@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "ToyFinder CLI Gem."
-date:       2018-06-12 04:47:01 +0000
+date:       2018-06-12 00:47:02 -0400
 permalink:  toyfinder_cli_gem
 ---
 
